@@ -93,6 +93,8 @@ DESIGN.md 为 Agent 提供了明确的、结构化的品牌指南，确保每次
 我们提供基于此项目的商业增强版和企业定制服务。
 
 - **📧 邮件咨询**：16208204@qq.com
+
+> 💼 **商业授权**：获取商业授权与付款信息，请填写[授权表单](https://sevenliuhu.github.io/Homo-Ai/unlock.html)或发邮件至 **16208204@qq.com**
 - **💼 在 Fiverr 下单**：https://www.fiverr.com/sevenliuhu
 - **🌐 HOMO 官方网站**：https://sevenliuhu.github.io/Homo-Ai/
 
